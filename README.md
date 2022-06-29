@@ -1,6 +1,6 @@
 ### Oii! Bem-vindo/a!!👋
 
-- 🌱 Estudando JavaScript e PHP
+- 🌱 Estudando C#/Unity
 
 
   <a href="https://github.com/leomartinss">
